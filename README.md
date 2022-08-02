@@ -1,11 +1,12 @@
-- 👋 Hi, I’m @adeboyega
-- 👀 I’m interested in web3 and wed development
-- 🌱 I’m currently learning nodejs 
-- 💞️ I’m looking to collaborate on frontend projects
-- 📫 How to reach me: 8955yomi@gmail.com
-- 😎 current skills : HTML, CSS, JAVASCRIPT,PYTHON
+Hi there 👋 I'm Abayomi Aremo
+Nice to meet you, visitors
 
-<!---
-adeboyega/adeboyega is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a Frontend software developer, passionate in building quality solutions and exploring modern innovations in technology.
+
+As a developer, i possess an obsessive attention to detail, and undying love in building solutions that make a difference
+
+🔭 I’m currently working on Frontend Projects.
+
+🌱 I’m currently learning NodeJs.
+
+⚡ My Stack: ... HTML, CSS, JAVASCRIPT, PYTHON.

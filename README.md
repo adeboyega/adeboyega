@@ -1,5 +1,5 @@
 Hi there 👋 I'm Abayomi Aremo
-Nice to meet you, visitors
+Nice to meet you
 
 I am a Frontend software developer, passionate in building quality solutions and exploring modern innovations in technology.
 

@@ -9,4 +9,4 @@ As a developer, i possess an obsessive attention to detail, and undying love in 
 
 🌱 I’m currently learning NodeJs.
 
-⚡ My Stack: ... HTML, CSS, JAVASCRIPT, PYTHON.
+⚡ My Stack: ... HTML, CSS, JAVASCRIPT, PYTHON, NODE.JS

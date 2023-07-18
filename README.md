@@ -8,4 +8,4 @@ As a developer, i possess an obsessive attention to detail, and undying love in 
 
 🌱 I’m currently learning TypeScript.
 
-⚡ My Stack: ... HTML, CSS, JAVASCRIPT, PYTHON, NODE.JS, REACT, SASS, TAILWIND, MONGO DB, SVELTE.JS
+⚡ My Stack: ... HTML, CSS, JAVASCRIPT, PYTHON, NODE.JS, REACT, SASS, TAILWIND, MONGO DB, SVELTE.JS, PICO CSS

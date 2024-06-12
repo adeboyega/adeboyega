@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋 I'm Abayomi Aremo<br><br>I am a FULLSTACK software developer, passionate about building quality solutions and exploring modern innovations in technology.<br><br>As a developer, i possess an obsessive attention to detail, and undying love in building solutions that make a difference<br><br>🔭 I’m currently working on Frontend Projects.<br><br>🌱 I’m currently learning TypeScript.
+Hi there 👋 I'm Abayomi Aremo<br><br>I am a Software Engineer, passionate about building quality solutions and exploring modern innovations in technology.<br><br>As a developer, i possess an obsessive attention to detail, and undying love in building solutions that make a difference<br><br>🔭 .<br><br>🌱 I’m currently learning ruby.
 
 
 ## 🌐 Socials:
